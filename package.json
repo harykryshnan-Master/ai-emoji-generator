@@ -15,7 +15,7 @@
     "@prisma/client": "latest",
     "@prisma/extension-accelerate": "^0.6.2",
     "@types/ms": "^0.7.32",
-    "@types/node": "20.6.4",
+    "@types/node": "25.0.9",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "@upstash/ratelimit": "^0.4.4",
